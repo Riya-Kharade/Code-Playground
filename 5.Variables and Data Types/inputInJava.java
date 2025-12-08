@@ -33,3 +33,5 @@ public class inputInJava {
 		
     }
 }
+/*this is the simple code for various input using various datatype*/
+

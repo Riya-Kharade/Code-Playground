@@ -34,3 +34,5 @@ public class BinomialCoefficient {
         System.out.println("Binomial Coefficient (nCr) = " + ans);
     }
 }
+
+//this is a code about binomial Coefficient calculation

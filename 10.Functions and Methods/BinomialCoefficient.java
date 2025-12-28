@@ -2,7 +2,7 @@ import java.util.*;
 
 public class BinomialCoefficient {
 
-    // Function to calculate factorial
+    // Function to calculate factorial no
     public static int factorial(int n) {
         int fact = 1;
         for (int i = 1; i <= n; i++) {
@@ -36,3 +36,4 @@ public class BinomialCoefficient {
 }
 
 //this is a code about binomial Coefficient calculation
+
